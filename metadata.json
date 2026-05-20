@@ -1,0 +1,6 @@
+{
+  "name": "Control de Productos",
+  "description": "Sistema backend de gestión comercial de productos, rubros, categorías, subcategorías, proveedores y actualización masiva de precios con búsqueda semántica basada en IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
